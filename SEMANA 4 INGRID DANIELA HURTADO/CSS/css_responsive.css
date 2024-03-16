@@ -1,0 +1,8 @@
+*{
+    box-sizing: border-box;
+    margin: 0; /* inicializa margenes*/;
+    padding: 0;/ /* inicializa padding*/;
+}
+html{
+    max-height: 100% ;/* se adapte pag web a altura cualq dispósitivo*/
+}
